@@ -1,2 +1,4 @@
 Welcome to GIT.
 Test Commit
+Test commit via CMD
+
